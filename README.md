@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi 👋, I'm Ridham Sharma
 
-<!--
-**ridham2512/ridham2512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💫 **About Me**  
+CSE Student passionate about **Full-Stack Development and Data Structures & Algorithms**.  
+I enjoy building scalable web applications and solving real-world problems through clean and efficient code.  
+Currently focused on improving my **DSA skills and building AI-powered web applications**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **What I'm Currently Doing**
+- 📚 Learning **Data Structures & Algorithms**
+- 💻 Building **Full-Stack Web Applications**
+- 🤖 Exploring **AI-powered web apps**
+- 🌱 Improving my **problem-solving skills**
+
+---
+
+💻 **Tech Stack**
+
+**Languages**  
+C | C++ | Java | JavaScript | Python | PHP  
+
+**Frontend Development**  
+HTML | CSS | TailwindCSS | React | Next.js  
+
+**Backend Development**  
+Node.js | Express.js | Laravel  
+
+**Databases**  
+MySQL | MongoDB  
+
+**Tools & Technologies**  
+Git | GitHub | NPM | REST APIs | JWT
+
+---
+
+🌐 **Connect With Me**
+
+- LinkedIn: https://www.linkedin.com/in/ridham2004
+- Email: ridhamsharma2514@gmail.com
+
+---
+
+⚡ **Fun Fact**
+
+I enjoy solving coding problems and building projects that combine **technology with real-world solutions**.
