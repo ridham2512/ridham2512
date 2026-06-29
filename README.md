@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ridham Sharma
+# Hello 👋, I'm Ridham Sharma
 
 💫 **About Me**  
 CSE Student passionate about **Full-Stack Development and Data Structures & Algorithms**.  
